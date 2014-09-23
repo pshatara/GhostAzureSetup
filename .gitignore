@@ -58,7 +58,6 @@ CHANGELOG.md
 /core/test/functional/*.png
 
 # Built asset files
-/core/built/scripts/
 /core/client/assets/img/contributors/
 /core/client/docs/dist/css
 /core/client/templates/-contributors.hbs
